@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1580300978 source:/home/pi/Desktop/test3/noise.cpp
+	"noise.h"
+
+1575196990 /home/pi/Desktop/test3/noise.h
+	<random>
+	<cmath>
+	<opencv2/opencv.hpp>
+
+1580936346 source:/home/pi/Desktop/test3/phase.cpp
+	<iostream>
+	"correlation.h"
+	<opencv2/imgcodecs.hpp>
+	<opencv2/opencv.hpp>
+
+1580832448 /home/pi/Desktop/test3/correlation.h
+	<opencv2/imgproc.hpp>
+	<vector>
+	<opencv2/opencv.hpp>
+
+1582140664 source:/home/pi/Desktop/test3/correlation.cpp
+	"correlation.h"
+
