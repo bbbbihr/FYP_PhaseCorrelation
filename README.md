@@ -8,3 +8,5 @@ MeasureTime.m is used to meausre the running time of the code for differnet resi
 NormalCorrelation.m uses the matlab inbuilt function xcorr2(i.e. 2D cross correlation) to analyze one pair of images
 
 Other files applies phase correlation on a whole set of images with differnet defocus length to see the relationship between defocus length and phase correlation result.
+
+The folder: "Phase Correlation" contains the C++ project used on Raspberry Pi
